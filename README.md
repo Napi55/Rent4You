@@ -33,22 +33,4 @@ The Car Rental Management System is a comprehensive and user-friendly web applic
 ## Technologies Used
 
 - Front-End: HTML, CSS, JavaScript
-- Back-End: Swift (Vapor Framework)
-
-## Getting Started
-
-For detailed information on how to set up and use the Car Rental Management System, please refer to our [User Documentation](link_to_user_docs).
-
-## Contribution
-
-Contributions to the project are welcome! If you find any issues or have suggestions for improvements, feel free to open an [issue](link_to_issues) or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](link_to_license).
-
-## Contact
-
-For inquiries and support, you can reach us at [contact@example.com](mailto:contact@example.com).
-
-Join us in revolutionizing car rental agency management with this powerful and intuitive system! Your feedback and contributions are invaluable as we continue to enhance and refine the Car Rental Management System.
+- Back-End: Python (Django Framework)
